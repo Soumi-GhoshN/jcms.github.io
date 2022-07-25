@@ -58,4 +58,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal

@@ -18,13 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JCMS series by KTH, Nordita and SU 
-email: artiaco@kth.se
+title: My title
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Joint Condensed Matter Seminar (JCMS) series organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University. Awesome.
-baseurl: "/jcms.github.io" # the subpath of your site, e.g. /blog
-permalink: "/jcms.github.io/:year/:month/:day/:title:output_ext"
-url: "http://cartiaco.github.io"
+  Awesome.
 # url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cartiaco
 github: [metadata]

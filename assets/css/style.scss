@@ -1,0 +1,27 @@
+---
+---
+
+@import 'jekyll-theme-leap-day';
+
+btn hover {
+  color: #0000ff;
+  border-color: #0000ff;
+}
+
+body {
+    color: #000000;
+	font-size: 18px;
+}
+
+header h1 {
+  font: 100px;
+  color: #F4D25C;
+  -webkit-background-clip: text;
+}
+
+#banner {
+  background-color: #18b8d8;
+  padding: 1px 20px;
+  border-color: #18b8d8;
+}
+

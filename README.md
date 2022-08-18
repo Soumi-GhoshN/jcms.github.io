@@ -1,4 +1,4 @@
-# The JCMS series website
+# The website of the JCMS series
 
 This folder contains the files for the static website of the Joint Condensed Matter Seminar (JCMS) series.
 

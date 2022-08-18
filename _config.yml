@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JCMS series by KTH, Nordita and SU 
+title: The JCMS series
 email: artiaco@kth.se
-description: >- # this means to ignore newlines until "baseurl:"
-  Joint Condensed Matter Seminar (JCMS) series organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University. Awesome.
+description: |-
+    The Joint Condensed Matter Seminar (JCMS) series is organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University.
+# >- # this means to ignore newlines until "baseurl:"
 baseurl: "/jcms.github.io" # the subpath of your site, e.g. /blog
-permalink: "/jcms.github.io/:year/:month/:day/:title:output_ext"
+calurl: "/jcms.github.io/fullCalendar" # the subpath of your site, e.g. /blog
+permalink: "/:year/:month/:day/:title:output_ext"
 url: "http://cartiaco.github.io"
-# url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cartiaco
+github_owner: cartiaco
 github: [metadata]
 
 # Build settings
@@ -35,6 +37,8 @@ markdown: kramdown
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-remote-theme
 
 # Exclude from processing.
@@ -56,4 +60,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# theme: jekyll-theme-leap-day
+collections:
+  upcomingposts:
+    output: true
+

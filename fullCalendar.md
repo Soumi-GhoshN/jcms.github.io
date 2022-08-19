@@ -3,7 +3,7 @@
 
 The choice of the speakers is still in progress.
 <br>
-We would like to hear about your interests: if you have a speaker to suggest, let us know by sending an email to the [organising team](../#contacts)!
+We would like to hear about your interests: if you have a speaker to suggest, let us know by sending an email to the [organising team](https://cartiaco.github.io/jcms.github.io/#contacts)!
 
 <ul>
   {% for post in site.posts %}

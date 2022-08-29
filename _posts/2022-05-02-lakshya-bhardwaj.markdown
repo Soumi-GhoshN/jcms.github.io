@@ -7,7 +7,7 @@ categories:
 
 # May 2nd, 2022: Lakshya Bhardwaj
 
-On Monday, May 2nd, 2022 we hosted a seminar by **Lakshya Bhardwaj** from **Oxford University**. 
+On Monday, May 2nd, 2022 from 11 am to 12 am we hosted a seminar by **Lakshya Bhardwaj** from **Oxford University**. 
 <br>
 [Personal webpage][bhardwaj-webpage]. 
 

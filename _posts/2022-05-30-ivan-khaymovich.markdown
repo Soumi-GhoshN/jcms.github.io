@@ -7,7 +7,7 @@ categories:
 
 # May 30th, 2022: Ivan Khaymovich
 
-On Monday, May 30th, 2022 we hosted a seminar by **Ivan Khaymovich** from **Nordita**.
+On Monday, May 30th, 2022 from 11 am to 12 am we hosted a seminar by **Ivan Khaymovich** from **Nordita**.
 <br>
 [Personal webpage][khaymovich-webpage]. 
 

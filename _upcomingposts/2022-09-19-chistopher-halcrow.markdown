@@ -7,7 +7,7 @@ categories:
 
 # September 19th, 2022: Chris Halcrow
 
-On Monday, September 19th, 2022 we will host a seminar by **Chris Halcrow** from **KTH Royal Institute of Technology**. 
+On Monday, September 19th, 2022 from 11 am to 12 am we will host a seminar by **Chris Halcrow** from **KTH Royal Institute of Technology**. 
 
 ## Title
 

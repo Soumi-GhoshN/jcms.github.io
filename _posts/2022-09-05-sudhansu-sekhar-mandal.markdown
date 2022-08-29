@@ -7,7 +7,7 @@ categories:
 
 # September 5th, 2022: Sudhansu Sekhar Mandal
 
-On Monday, September 5th, 2022 we will host a seminar by **Sudhansu Sekhar Mandal** from the **Indian Institute of Technology, Kharagpur**.
+On Monday, September 5th, 2022 from 11 am to 12 am we will host a seminar by **Sudhansu Sekhar Mandal** from the **Indian Institute of Technology, Kharagpur**.
 <br>
 [Personal webpage][mandal-webpage]. 
 

@@ -6,7 +6,8 @@ The choice of speakers is still in progress.
 We would like to hear about your interests: if you have a speaker to suggest, let us know by sending an email to the [organising team](https://cartiaco.github.io/jcms.github.io/#contacts)!
 
 A complete list of our past and future events can be found in the following.
-<br>
+
+
 To not miss any of our events, synchronize your devices with our [Google Calendar](https://calendar.google.com/calendar/u/1?cid=ZWdlbWQ2bG42MDNuZzR2aXQydjFhMmRnNThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)!
 
 <ul>

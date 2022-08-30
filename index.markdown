@@ -50,11 +50,11 @@ We encourage you to join and bring your own mug/reusable glass if you have one!
 The JCMS organising team is composed by:
 
 KTH:
-Claudia Artiaco (artiaco@kth.se); Christoph Fleckenstein (cfle@kth.se)
+Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se))
 
 Nordita:
-Joris Schaltegger (joriss@kth.se)
+Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se))
 
 SU: 
-Maria Hermanns (maria.hermanns@fysik.su.se); Lukas Andre Rødland (lukas.rodland@fysik.su.se)
+Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)); Lukas Andre Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
  

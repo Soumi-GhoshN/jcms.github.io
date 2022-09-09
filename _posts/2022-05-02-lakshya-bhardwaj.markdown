@@ -13,7 +13,7 @@ On Monday, May 2nd, 2022 from 11 am to 12 am we hosted a seminar by **Lakshya Bh
 
 ## Title
 
-Non-Invertible Higher-Categorical Symmetries.
+Non-Invertible Higher-Categorical Symmetries
 
 ## Abstract 
 

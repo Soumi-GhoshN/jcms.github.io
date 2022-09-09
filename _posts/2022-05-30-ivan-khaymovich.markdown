@@ -13,7 +13,7 @@ On Monday, May 30th, 2022 from 11 am to 12 am we hosted a seminar by **Ivan Khay
 
 ## Title
 
-Localization beyond convergence of localized perturbation theory in correlated long-range systems
+Localization Beyond Convergence of Localized Perturbation Theory in Correlated Long-Range Systems
 
 ## Abstract 
 

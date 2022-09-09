@@ -11,7 +11,7 @@ On Monday, May 16th, 2022 from 11 am to 12 am we hosted a seminar by **Maria Her
 
 ## Title
 
-Fate of boundary modes.
+Fate of Boundary Modes
 
 ## Abstract 
 

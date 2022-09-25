@@ -43,19 +43,19 @@ The phenomenon of the correlation-induced localization [A] is just the very peak
 
 [8] J. T. Cantin, T. Xu, and R. V. Krems, Phys. Rev. B 98, 014204 (2018).
 
-[A] P. Nosov, I. M. K., V. E. Kravtsov, "Correlation-induced localization", Phys. Rev. B 99, 104203 (2019) [arXiv:1810.01492]
+[A] P. Nosov, I. M. K., V. E. Kravtsov, "Correlation-induced localization", Phys. Rev. B 99, 104203 (2019) ([arXiv:1810.01492](https://arxiv.org/abs/1810.01492)).
 
-[B] P. A. Nosov, I. M. K., "Robustness of delocalization to the inclusion of soft constraints in long-range random models", Phys. Rev. B 99, 224208 (2019) [arXiv:1904.11509].
+[B] P. A. Nosov, I. M. K., "Robustness of delocalization to the inclusion of soft constraints in long-range random models", Phys. Rev. B 99, 224208 (2019) ([arXiv:1904.11509](https://arxiv.org/abs/1904.11509)).
 
-[C] A. Kutlin, I. M. K., "Renormalization to localization without a small parameter", SciPost Phys. 8, 049 (2020) [arXiv:2001.06493]
+[C] A. Kutlin, I. M. K., "Renormalization to localization without a small parameter", SciPost Phys. 8, 049 (2020) ([arXiv:2001.06493](https://arxiv.org/abs/2001.06493)).
 
-[D] X. Deng, A. L. Burin, I. M. K., "Anisotropy-driven localization transition in quantum dipoles" [arXiv:2002.00013]
+[D] X. Deng, A. L. Burin, I. M. K., "Anisotropy-driven localization transition in quantum dipoles" ([arXiv:2002.00013](https://arxiv.org/abs/2002.00013)).
 
-[E] A. G. Kutlin, I. M. K., "Multifractality emergence in energy stratified random models" [arxiv:2106.03864]
+[E] A. G. Kutlin, I. M. K., "Multifractality emergence in energy stratified random models" ([arxiv:2106.03864](https://arxiv.org/abs/2106.03864)).
 
-[F] W. C. Tang, I. M. K., "Non-ergodic delocalized phase with Poisson level statistics", [arXiv:2112.09700]
+[F] W. C. Tang, I. M. K., "Non-ergodic delocalized phase with Poisson level statistics", ([arXiv:2112.09700](https://arxiv.org/abs/2112.09700)).
 
-[G] V. Motamarri, A. S. Gorsky, I. M. K. "Time-reversal symmetry breaking, localization, and emergent multifractality in a Bethe-ansatz integrable model", [arXiv:2112.05066].
+[G] V. Motamarri, A. S. Gorsky, I. M. K. "Time-reversal symmetry breaking, localization, and emergent multifractality in a Bethe-ansatz integrable model", ([arXiv:2112.05066](https://arxiv.org/abs/2112.05066)).
 
 
 [khaymovich-webpage]: https://sites.google.com/view/ivan-khaymovich/

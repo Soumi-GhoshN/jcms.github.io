@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/jcms.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jcms.github.io/" rel="alternate" type="text/html" /><updated>2022-09-22T09:21:40+02:00</updated><id>http://localhost:4000/jcms.github.io/feed.xml</id><title type="html">The JCMS series</title><subtitle>The Joint Condensed Matter Seminar (JCMS) series is organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University.</subtitle><entry><title type="html">November 28th, 2022: Marin Bukov</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov.html" rel="alternate" type="text/html" title="November 28th, 2022: Marin Bukov" /><published>2022-07-30T13:00:00+02:00</published><updated>2022-07-30T13:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov.html">&lt;h1 id=&quot;november-28th-2022-marin-bukov&quot;&gt;November 28th, 2022: Marin Bukov&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/jcms.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jcms.github.io/" rel="alternate" type="text/html" /><updated>2022-09-25T11:32:26+02:00</updated><id>http://localhost:4000/jcms.github.io/feed.xml</id><title type="html">The JCMS series</title><subtitle>The Joint Condensed Matter Seminar (JCMS) series is organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University.</subtitle><entry><title type="html">November 28th, 2022: Marin Bukov</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov.html" rel="alternate" type="text/html" title="November 28th, 2022: Marin Bukov" /><published>2022-07-30T13:00:00+02:00</published><updated>2022-07-30T13:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/marin-bukov.html">&lt;h1 id=&quot;november-28th-2022-marin-bukov&quot;&gt;November 28th, 2022: Marin Bukov&lt;/h1&gt;
 
 &lt;p&gt;On Monday, November 28th, 2022 from 11 am to 12 am we will host a seminar by &lt;strong&gt;Marin Bukov&lt;/strong&gt; from &lt;strong&gt;Max Planck Institute for the Physics of Complex Systems, Dresden&lt;/strong&gt;.&lt;/p&gt;
 
@@ -34,21 +34,43 @@
 
 &lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
 
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;Filamentary Superconductivity in Systems with Competing Charge Density Wave&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 
-&lt;p&gt;TBA&lt;/p&gt;</content><author><name></name></author><summary type="html">October 3rd, 2022: Giulia Venditti</summary></entry><entry><title type="html">September 26th, 2022: Albert Samoilenka</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka.html" rel="alternate" type="text/html" title="September 26th, 2022: Albert Samoilenka" /><published>2022-07-30T09:30:00+02:00</published><updated>2022-07-30T09:30:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka.html">&lt;h1 id=&quot;september-26th-2022-albert-samoilenka&quot;&gt;September 26th, 2022: Albert Samoilenka&lt;/h1&gt;
+&lt;p&gt;Filamentary superconductivity is naturally emerging as a new rich field. The higly inhomogeneous nature of the superconducting (SC) condensate has been in fact reported in several families of low dimensional superconductors. The mechanisms behind the fragmentation of the electronic condensate can be several, depending on the specific material and conditions, leading to unusual trends in transport measurements [1] and covering the hallmarks of a Berezinskii-Kosterlitz-Thouless (BKT) transition.&lt;/p&gt;
+
+&lt;p&gt;In some class of materials, experimental observations points towards the direction of a phase competition among superconductivity and the charge ordered phase, tunable through an external control parameter, which can be either magnetic field, pressure or doping. Specifically, in TMDs, the SC filaments has been directly observed via scanning tunneling microscopy (STM) measurements [2]; in cuprates, magnetoresistance experiments on LSCO thin films [3, 4], spin susceptibilities [5] and specific heat [6] in YBCO all evidence a fragile SC state surviving at low temperatures in the charge density wave (CDW) state of the phase diagram.&lt;/p&gt;
+
+&lt;p&gt;In this work [7, 8], we studied the CDW-SC competition by means of Monte Carlo simulations. We use an anisotropic Heisenberg model on a two-dimensional square lattice that captures the basic symmetries of the problem: the out-of-plane component of the pseudospin sz encodes two possible charge ordered variants (up/down) and the in-plane component stands for the SC order parameter. We construct a phase diagram where the anisotropy term α introduced plays the same role as the magnetic field in real experiments and it can tune the transition from the topological BKT to the CDW (see Fig. 1). Importantly, we find the presence of impurities is necessary in order to stabilize the clustering of polycrystalline charge ordered domains and the appearance of filamentary superconductivity.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;[1] G. Venditti et al. Superfluid rigidity in filamentary superconductors, In preparation.&lt;/p&gt;
+
+&lt;p&gt;[2] M. Spera et al. Phys. Rev. B 99, 155133 (2019).&lt;/p&gt;
+
+&lt;p&gt;[3] B. Leridon et al. New J. Phys. 22 073025 (2020).&lt;/p&gt;
+
+&lt;p&gt;[4] S. Caprara et al. SciPost Phys. 8, 003 (2020).&lt;/p&gt;
+
+&lt;p&gt;[5] R. Zhou et al. PNAS 1711445114 (2017).&lt;/p&gt;
+
+&lt;p&gt;[6] J. Kačmarčík et al. Phys. Rev. Lett. 121, 167002 (2018).&lt;/p&gt;
+
+&lt;p&gt;[7] G. Venditti et al. Competition between charge order and superconductivity in 2d systems, In preparation.&lt;/p&gt;
+
+&lt;p&gt;[8] G. Venditti et al. Filamentary superconductivity arising from the CDW-SC competition, In preparation.&lt;/p&gt;</content><author><name></name></author><summary type="html">October 3rd, 2022: Giulia Venditti</summary></entry><entry><title type="html">September 26th, 2022: Albert Samoilenka</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka.html" rel="alternate" type="text/html" title="September 26th, 2022: Albert Samoilenka" /><published>2022-07-30T09:30:00+02:00</published><updated>2022-07-30T09:30:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/albert-samoilenka.html">&lt;h1 id=&quot;september-26th-2022-albert-samoilenka&quot;&gt;September 26th, 2022: Albert Samoilenka&lt;/h1&gt;
 
 &lt;p&gt;On Monday, September 26th, 2022 from 11 am to 12 am we will host a seminar by &lt;strong&gt;Albert Samoilenka&lt;/strong&gt; from &lt;strong&gt;KTH&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
 
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;Boundary States and Enhanced Superconductivity&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 
-&lt;p&gt;TBA&lt;/p&gt;</content><author><name></name></author><summary type="html">September 26th, 2022: Albert Samoilenka</summary></entry><entry><title type="html">September 19th, 2022: Chris Halcrow</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow.html" rel="alternate" type="text/html" title="September 19th, 2022: Chris Halcrow" /><published>2022-07-30T09:00:00+02:00</published><updated>2022-07-30T09:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow.html">&lt;h1 id=&quot;september-19th-2022-chris-halcrow&quot;&gt;September 19th, 2022: Chris Halcrow&lt;/h1&gt;
+&lt;p&gt;The standard textbook picture describes the onset of superconductivity in a BCS model as a single phase transition. The picture relies on the microscopic derivation of the boundary conditions between a BCS superconductor and vacuum by De Gennes and later by Abrikosov. They concluded that the normal derivative of the order parameter is zero. Hence the superconducting order parameter should vanish near the boundary at the same temperature as in the bulk. I will show that there are additional boundary states that were missed in previous works. They are characterized by an increased superconducting gap near boundaries, which asymptotically decays in the bulk. Moreover, the gap survives near the sample boundaries at higher temperatures than in the bulk. Therefore, BCS superconductors have multiple critical points associated with separate phase transitions at the boundary and in the bulk. We will revise the microscopic derivation of superconductor-insulator boundary conditions for the Ginzburg-Landau model. These are shown to follow from considering the order parameter reflected in the boundary. We will also study how boundary states behave in the presence of pair-density-wave states or magnetic fields.&lt;/p&gt;</content><author><name></name></author><summary type="html">September 26th, 2022: Albert Samoilenka</summary></entry><entry><title type="html">September 19th, 2022: Chris Halcrow</title><link href="http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow.html" rel="alternate" type="text/html" title="September 19th, 2022: Chris Halcrow" /><published>2022-07-30T09:00:00+02:00</published><updated>2022-07-30T09:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/07/30/chistopher-halcrow.html">&lt;h1 id=&quot;september-19th-2022-chris-halcrow&quot;&gt;September 19th, 2022: Chris Halcrow&lt;/h1&gt;
 
 &lt;p&gt;On Monday, September 19th, 2022 from 11 am to 12 am we will host a seminar by &lt;strong&gt;Chris Halcrow&lt;/strong&gt; from &lt;strong&gt;KTH, Royal Institute of Technology&lt;/strong&gt;.&lt;/p&gt;
 
@@ -115,19 +137,19 @@ The phenomenon of the correlation-induced localization [A] is just the very peak
 
 &lt;p&gt;[8] J. T. Cantin, T. Xu, and R. V. Krems, Phys. Rev. B 98, 014204 (2018).&lt;/p&gt;
 
-&lt;p&gt;[A] P. Nosov, I. M. K., V. E. Kravtsov, “Correlation-induced localization”, Phys. Rev. B 99, 104203 (2019) [arXiv:1810.01492]&lt;/p&gt;
+&lt;p&gt;[A] P. Nosov, I. M. K., V. E. Kravtsov, “Correlation-induced localization”, Phys. Rev. B 99, 104203 (2019) (&lt;a href=&quot;https://arxiv.org/abs/1810.01492&quot;&gt;arXiv:1810.01492&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[B] P. A. Nosov, I. M. K., “Robustness of delocalization to the inclusion of soft constraints in long-range random models”, Phys. Rev. B 99, 224208 (2019) [arXiv:1904.11509].&lt;/p&gt;
+&lt;p&gt;[B] P. A. Nosov, I. M. K., “Robustness of delocalization to the inclusion of soft constraints in long-range random models”, Phys. Rev. B 99, 224208 (2019) (&lt;a href=&quot;https://arxiv.org/abs/1904.11509&quot;&gt;arXiv:1904.11509&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[C] A. Kutlin, I. M. K., “Renormalization to localization without a small parameter”, SciPost Phys. 8, 049 (2020) [arXiv:2001.06493]&lt;/p&gt;
+&lt;p&gt;[C] A. Kutlin, I. M. K., “Renormalization to localization without a small parameter”, SciPost Phys. 8, 049 (2020) (&lt;a href=&quot;https://arxiv.org/abs/2001.06493&quot;&gt;arXiv:2001.06493&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[D] X. Deng, A. L. Burin, I. M. K., “Anisotropy-driven localization transition in quantum dipoles” [arXiv:2002.00013]&lt;/p&gt;
+&lt;p&gt;[D] X. Deng, A. L. Burin, I. M. K., “Anisotropy-driven localization transition in quantum dipoles” (&lt;a href=&quot;https://arxiv.org/abs/2002.00013&quot;&gt;arXiv:2002.00013&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[E] A. G. Kutlin, I. M. K., “Multifractality emergence in energy stratified random models” [arxiv:2106.03864]&lt;/p&gt;
+&lt;p&gt;[E] A. G. Kutlin, I. M. K., “Multifractality emergence in energy stratified random models” (&lt;a href=&quot;https://arxiv.org/abs/2106.03864&quot;&gt;arxiv:2106.03864&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[F] W. C. Tang, I. M. K., “Non-ergodic delocalized phase with Poisson level statistics”, [arXiv:2112.09700]&lt;/p&gt;
+&lt;p&gt;[F] W. C. Tang, I. M. K., “Non-ergodic delocalized phase with Poisson level statistics”, (&lt;a href=&quot;https://arxiv.org/abs/2112.09700&quot;&gt;arXiv:2112.09700&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;[G] V. Motamarri, A. S. Gorsky, I. M. K. “Time-reversal symmetry breaking, localization, and emergent multifractality in a Bethe-ansatz integrable model”, [arXiv:2112.05066].&lt;/p&gt;</content><author><name></name></author><summary type="html">May 30th, 2022: Ivan Khaymovich</summary></entry><entry><title type="html">May 16th, 2022: Maria Hermanns</title><link href="http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns.html" rel="alternate" type="text/html" title="May 16th, 2022: Maria Hermanns" /><published>2022-05-16T09:00:00+02:00</published><updated>2022-05-16T09:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns.html">&lt;h1 id=&quot;may-16th-2022-maria-hermanns&quot;&gt;May 16th, 2022: Maria Hermanns&lt;/h1&gt;
+&lt;p&gt;[G] V. Motamarri, A. S. Gorsky, I. M. K. “Time-reversal symmetry breaking, localization, and emergent multifractality in a Bethe-ansatz integrable model”, (&lt;a href=&quot;https://arxiv.org/abs/2112.05066&quot;&gt;arXiv:2112.05066&lt;/a&gt;).&lt;/p&gt;</content><author><name></name></author><summary type="html">May 30th, 2022: Ivan Khaymovich</summary></entry><entry><title type="html">May 16th, 2022: Maria Hermanns</title><link href="http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns.html" rel="alternate" type="text/html" title="May 16th, 2022: Maria Hermanns" /><published>2022-05-16T09:00:00+02:00</published><updated>2022-05-16T09:00:00+02:00</updated><id>http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns</id><content type="html" xml:base="http://localhost:4000/jcms.github.io/2022/05/16/maria-hermanns.html">&lt;h1 id=&quot;may-16th-2022-maria-hermanns&quot;&gt;May 16th, 2022: Maria Hermanns&lt;/h1&gt;
 
 &lt;p&gt;On Monday, May 16th, 2022 from 11 am to 12 am we hosted a seminar by &lt;strong&gt;Maria Hermanns&lt;/strong&gt; from &lt;strong&gt;Stockholm University&lt;/strong&gt;.&lt;/p&gt;
 

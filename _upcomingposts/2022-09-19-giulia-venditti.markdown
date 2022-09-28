@@ -22,6 +22,13 @@ In some class of materials, experimental observations points towards the directi
 In this work [7, 8], we studied the CDW-SC competition by means of Monte Carlo simulations. We use an anisotropic Heisenberg model on a two-dimensional square lattice that captures the basic symmetries of the problem: the out-of-plane component of the pseudospin sz encodes two possible charge ordered variants (up/down) and the in-plane component stands for the SC order parameter. We construct a phase diagram where the anisotropy term α introduced plays the same role as the magnetic field in real experiments and it can tune the transition from the topological BKT to the CDW (see Fig. 1). Importantly, we find the presence of impurities is necessary in order to stabilize the clustering of polycrystalline charge ordered domains and the appearance of filamentary superconductivity.
 
 
+<figure>
+  <img src="{{site.baseurl}}/assets/images/image_prova.jpg" alt="">
+  <figcaption>Fig. 1: Snapshots of the final configurations of spin at T=0.001 for L=128 varying the control parameter α. The color maps the out-of-plane component from up (sz=+1 in green), to in-plane (sz=0 in red), to down (sz=-1 in blue).</figcaption>
+</figure>
+
+<br>
+
 ## References
 
 [1] G. Venditti et al. Superfluid rigidity in filamentary superconductors, In preparation.
@@ -39,4 +46,3 @@ In this work [7, 8], we studied the CDW-SC competition by means of Monte Carlo s
 [7] G. Venditti et al. Competition between charge order and superconductivity in 2d systems, In preparation.
 
 [8] G. Venditti et al. Filamentary superconductivity arising from the CDW-SC competition, In preparation.
-

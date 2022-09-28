@@ -7,7 +7,7 @@ categories:
 
 # October 3rd, 2022: Giulia Venditti
 
-On Monday, October 3rd, 2022 from 11 am to 12 am we will host a seminar by **Giulia Venditti** from **La Sapienza, Univeristy of Rome**. 
+On Monday, October 3rd, 2022 from 11 am to 12 am we will host a seminar by **Giulia Venditti** from **SPIN-CNR, Rome**. 
 
 ## Title
 

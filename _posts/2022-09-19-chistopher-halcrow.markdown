@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "September 19th, 2022: Chris Halcrow"
-date: 2022-07-30 09:00:00 +0200
+date: 2022-09-19 09:00:00 +0200
 categories:
 ---
 

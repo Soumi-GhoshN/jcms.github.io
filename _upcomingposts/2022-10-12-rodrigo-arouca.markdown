@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "October 17th, 2022: Rodrigo Arouca"
-date: 2022-07-30 11:00:00 +0200
+date: 2022-10-12 09:00:00 +0200
 categories:
 ---
 

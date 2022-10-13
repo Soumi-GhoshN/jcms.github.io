@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "November 28th, 2022: Marin Bukov"
-date: 2022-07-30 13:00:00 +0200
+date: 2022-10-12 11:00:00 +0200
 categories:
 ---
 

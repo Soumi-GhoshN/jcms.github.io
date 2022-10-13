@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "October 24th, 2022: Loic Herviou"
-date: 2022-07-30 11:50:00 +0200
+date: 2022-10-12 10:00:00 +0200
 categories:
 ---
 

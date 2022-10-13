@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "October 17th, 2022: Rodrigo Arouca"
-date: 2022-07-30 11:00:00 +0200
+date: 2022-10-12 09:00:00 +0200
 categories:
 ---
 
@@ -35,4 +35,7 @@ We consider then a non-Hermitian extension of the Kitaev chain with non-reciproc
 [5] Reviews: C. Beenaker. Search for Majorana fermions in superconductors, Annual Review of Condensed Matter Physics 4, 113 (2013); Karsten Flensberg, Felix von Oppen, Ady Stern. Engineered platforms for topological superconductivity and Majorana zero modes, Nature Reviews Materials 6, 944 (2021).
 
 [6] Yi-Hua Lai, Sankar Das Sarma, Jay D. Sau,  Quality factor for zero-bias conductance peaks in Majorana nanowire, Physical Review B106 (2022).
+
+
+
 

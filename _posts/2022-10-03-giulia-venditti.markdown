@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "October 3rd, 2022: Giulia Venditti"
-date: 2022-07-30 10:00:00 +0200
+date: 2022-10-03 10:00:00 +0200
 categories:
 ---
 

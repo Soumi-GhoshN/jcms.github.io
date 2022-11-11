@@ -23,6 +23,7 @@ In this seminar, I will first give an introduction to the basic ideas of hyperbo
 ## References
 
 [1] P. M. Lenggenhager, A. Stegmaier, L. K. Upreti, T. Hofmann, T. Helbig, A. Vollhardt, M. Greiter, C. H. Lee, S. Imhof, H. Brand, T. Kießling, I. Boettcher, T. Neupert, R. Thomale, and T. Bzdušek, Nat. Commun. 13, 4373 (2022).
+
 [2] D. M. Urwyler, P. M. Lenggenhager, I. Boettcher, R. Thomale, T. Neupert, and T. Bzdušek, arXiv:2203.07292 (2022).
 
 

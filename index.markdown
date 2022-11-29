@@ -53,7 +53,7 @@ KTH:
 Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se))
 
 Nordita:
-Bart Olsthoorn ([bartol@kth.se](mailto:bartol@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se))
+Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se))
 
 SU: 
 Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)); Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))

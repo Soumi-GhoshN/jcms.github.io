@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "December 5th, 2022: Alexander I. Buzdin"
+title: "December 5th, 2022: Alexander Buzdin"
 date: 2022-10-12 12:00:00 +0200
 categories:
 ---
 
-# December 5th, 2022: Alexander I. Buzdin
+# December 5th, 2022: Alexander Buzdin
 
-On Monday, December 5th, 2022 from 11 am to 12 am we will host a seminar by **Alexander I. Buzdin** from **University of Bordeaux**. 
+On Monday, December 5th, 2022 from 11 am to 12 am we will host a seminar by **Alexander Buzdin** from **University of Bordeaux**. 
 
 ## Title
 

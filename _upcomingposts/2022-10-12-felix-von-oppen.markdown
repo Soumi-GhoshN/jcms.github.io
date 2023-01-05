@@ -7,7 +7,9 @@ categories:
 
 # January 12th, 2022: Felix von Oppen
 
-On Thursday, January 12th, 2022 from 13 to 14 we will host a seminar by **Felix von Oppen** from **Freie Universität Berlin**. 
+On **Thursday, January 12th, 2022 from 13 to 14** we will host a seminar by **Felix von Oppen** from **Freie Universität Berlin**. 
+
+Note the unsual date and time for this seminar.
 
 ## Title
 

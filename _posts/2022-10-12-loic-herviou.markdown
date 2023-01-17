@@ -16,7 +16,7 @@ Possible restoration of particle-hole symmetry in the 5/2 Quantized Hall State a
 ## Abstract 
 
 Motivated by the experimental observation of a quantized 5/2 thermal conductance at filling 5/2, a result incompatible with the theoretical predictions, we have pushed the expansion of the effective Hamiltonian of the 5/2 quantized Hall state to third-order in the Landau level mixing parameter.
-<br>
+
 After a brief introduction on the FQHE and the physics of the 5/2 state, I will show that our exact diagonalization computations suggest that the energy differences between Pfaffian and AntiPfaffian states are significantly smaller than expected, and that the particle-hole symmetry might be restored in the experimental regime.
 
 

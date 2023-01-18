@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "January 12th, 2022: Felix von Oppen"
+title: "January 12th, 2023: Felix von Oppen"
 date: 2022-10-12 14:00:00 +0200
 categories:
 ---
 
-# January 12th, 2022: Felix von Oppen
+# January 12th, 2023: Felix von Oppen
 
-On Thursday, January 12th, 2022 from 13 to 14 we will host a seminar by **Felix von Oppen** from **Freie Universität Berlin**. 
+On Thursday, January 12th, 2023 from 13 to 14 we will host a seminar by **Felix von Oppen** from **Freie Universität Berlin**. 
 
 ## Title
 

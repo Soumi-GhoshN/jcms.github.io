@@ -7,7 +7,7 @@ categories:
 
 # April 17th, 2023: Ahmed Abouelkomsan
 
-On Monday, April 17th, 2023 from 11 am to 12 am we will host a seminar by **Ahmed Abouelkomsan** from **KTH**. 
+On Monday, April 17th, 2023 from 11 am to 12 am we will host a seminar by **Ahmed Abouelkomsan** from **Stockholm University**. 
 
 ## Title
 

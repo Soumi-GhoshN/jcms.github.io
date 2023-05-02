@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "June 19th, 2023: Warwick Bowen"
-date: 2022-10-12 20:35:00 +0200
+date: 2022-10-12 20:40:00 +0200
 categories:
 ---
 

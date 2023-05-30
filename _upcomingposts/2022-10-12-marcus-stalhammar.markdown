@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "June 5th, 2023: Marcus Stålhammar"
+title: "June 1st, 2023: Marcus Stålhammar"
 date: 2022-10-12 20:34:00 +0200
 categories:
 ---
 
 # June 1st, 2023: Marcus Stålhammar
 
-On Thursday, June 1st, 2023 from 11 am to 12 am we will host a seminar by **Marcus Stålhammar** from **Nordita**. 
+<span style="color:red">On Thursday, June 1st, 2023 from 10 am to 11 am</span> we will host a seminar by **Marcus Stålhammar** from **Nordita**. 
 
 ## Title
 

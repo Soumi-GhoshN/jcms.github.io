@@ -47,7 +47,7 @@ We encourage you to join and bring your own mug/reusable glass if you have one!
 
 <h2 id="contacts">Contacts</h2>
 
-### The JCMS organising team is composed by:
+### The JCMS organising team
 
 KTH:
 Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se))
@@ -59,6 +59,6 @@ SU: 
 Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)); Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
  
  
-### Former members of the JCMS organising team:
+### Former members of the JCMS organising team
 
 Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se))

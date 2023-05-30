@@ -11,11 +11,11 @@ On Friday, June 9th, 2023 from 11 am to 12 am we will host a seminar by **Rui Li
 
 ## Title
 
-TBA
+Good drive or bad drive: A guideline to enhance superconductivity with drive-dissipation interplay
 
 ## Abstract 
 
-TBA
+Driven-dissipative physics lie at the core of quantum optics. However, the full interplay between a driven quantum many-body system and its environment remains relatively unexplored in the realm of solid states. In this talk, we inspect this interplay beyond the commonly employed stroboscopic Hamiltonian picture based on the specific example of a driven superconductor. Employing the Shirley-Floquet and Keldysh formalisms as well as a generalization of the notion of superconducting fitness to the driven case, we show how a drive anti-commuting with the superconducting gap operator generically induces an unusual particle-hole structure in the spectral functions from the perspective of the thermal bath. Concomitant with a drive frequency which is near resonant with the intrinsic cutoff frequency of the underlying interaction mediating channel, this spectral structure can be harnessed to enhance the superconducting critical temperature. Our work paves the way for further studies for driven-dissipative engineering of exotic phases of matter in solid-state systems.
 
 
 

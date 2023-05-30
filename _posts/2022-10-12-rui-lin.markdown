@@ -7,7 +7,7 @@ categories:
 
 # June 9th, 2023: Rui Lin
 
-On Friday, June 9th, 2023 from 11 am to 12 am we will host a seminar by **Rui Lin** from **ETH Zürich**. 
+<span style="color:red">On Friday, June 9th, 2023 from 11 am to 12 am</span> we will host a seminar by **Rui Lin** from **ETH Zürich**. 
 
 ## Title
 

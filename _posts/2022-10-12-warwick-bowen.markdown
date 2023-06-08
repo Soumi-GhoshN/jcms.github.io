@@ -28,7 +28,7 @@ The ability to observe both vortex dynamics and hydrodynamic nonlinearities in s
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/image_bowen.png" alt="">
-  <figcaption>Fig. 1: Snapshots of the final configurations of spin at T=0.001 for L=128 varying the control parameter α. The color maps the out-of-plane component from up (sz=+1 in green), to in-plane (sz=0 in red), to down (sz=-1 in blue).</figcaption>
+  <figcaption>Fig. 1: Photonic crystal wavetank for superfluid helium.</figcaption>
 </figure>
 
 <br>
@@ -36,10 +36,15 @@ The ability to observe both vortex dynamics and hydrodynamic nonlinearities in s
 ## References
 
 [1] Huberman, Phys. Rev. Lett. 41 1389 (1978). Ellis & Luo, Third Sound: Where are the solitons? J. Low Temp. Phys. 89 115 (1992).
+
 [2] Harris et al, Nature Physics 12, 788-793 (2016); D. L. McAuslan, PRX 6, 021012 (2016).
+
 [3] He et al, Nature Physics 16 417 (2020).
+
 [4] Sawadsky et al, Science Advances 9 DOI:10.1126/sciadv.ade3591 (2023).
+
 [5] Sachkou et al. Science 366 1480 (2019).
+
 
 
 

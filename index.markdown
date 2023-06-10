@@ -13,7 +13,7 @@ The Joint Condensed Matter Seminar (JCMS) series hosts **biweekly seminars** fea
 
 The JCMS series is organised by KTH -- Royal Insitute of Technology, Nordita -- Nordic Institute for Theoretical Physics, and SU -- Stockholm University.
     
-### <span style="color:red">Upcoming events</span>
+### <span style="color:red">Upcoming event: Last seminar of the season</span>
 <ul>
   {% for post in site.upcomingposts %}
     <li>

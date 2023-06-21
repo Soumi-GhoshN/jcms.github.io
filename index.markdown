@@ -22,7 +22,7 @@ The JCMS series is organised by KTH -- Royal Insitute of Technology, Nordita -- 
   {% endfor %}
 </ul>
 
-Check out [here](./fullCalendar.html) the complete list of the JCMS events for 2022--2023!
+Check out [here](./fullCalendar.html) the complete list of the JCMS events for 2022/2023!
 
 ## Where
 

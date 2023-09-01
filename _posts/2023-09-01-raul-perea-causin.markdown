@@ -28,11 +28,17 @@ Overall, this work provides microscopic insights into many-particle processes go
 ## References
 
 [1] APL Mater 10, 100701 (2022)
+
 [2] Nano Lett. 21, 5867 (2021)
+
 [3] Nanoscale 13, 1884 (2021)
+
 [4] Phys. Rev. Lett. 120, 207401 (2018)
+
 [5] Nano Lett. 19, 7317 (2019)
+
 [6] Phys. Rev. B 106, 115407 (2022)
+
 [7] arXiv:2306.10812 (2023)
 
 

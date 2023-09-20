@@ -7,7 +7,7 @@ categories:
 
 # September 15th, 2023: Raül Perea Causín
 
-On Monday, September 15th, 2023 from 11 am to 12 am we will host a seminar by **Raül Perea Causín** from **Chalmers University of Technology**. 
+On Friday, September 15th, 2023 from 11 am to 12 am we will host a seminar by **Raül Perea Causín** from **Chalmers University of Technology**. 
 
 ## Title
 

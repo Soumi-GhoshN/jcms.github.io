@@ -7,7 +7,7 @@ categories:
 
 # October 30th, 2023: Boris Svistunov
 
-On Monday, October 30th, 2023 from 11 am to 12 am we will host a seminar by **Boris Svistunov** from **UMass Amherst**. 
+On Monday, October 30th, 2023 from 11 am to 12 am we will host a seminar by **Boris Svistunov** from **UMass Amherst**. Note the unsual place: the seminar will take place in Albano Building 3, Giga room 3:6231.
 
 ## Title
 

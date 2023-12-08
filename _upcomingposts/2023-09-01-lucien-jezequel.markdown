@@ -9,6 +9,8 @@ categories:
 
 On Thursday, December 14th, 2023 from 11 am to 12 am we will host a seminar by **Lucien Jezequel** from **LPENSL, ENS de Lyon**. 
 
+Note the unsual place: the seminar will take place in Albano Building 3, **Giga room 3:6231**.
+
 ## Title
 
 The "Mode-Shell" correspondence, a unifying concept in topological physics

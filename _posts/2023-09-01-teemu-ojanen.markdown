@@ -11,7 +11,7 @@ On Tuesday, February 20th, 2024 from 14 am to 15 am we will host a seminar by **
 
 ## Title
 
-TBA
+Fock complexity of fermionic states
 
 ## Abstract 
 

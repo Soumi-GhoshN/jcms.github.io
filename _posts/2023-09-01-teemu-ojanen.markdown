@@ -7,7 +7,7 @@ categories:
 
 # February 20th, 2024: Teemu Ojanen
 
-On Tuesday, February 20th, 2024 from 14 am to 15 am we will host a seminar by **Teemu Ojanen** from **Tampere University**. 
+On Tuesday, February 20th, 2024 from 2 pm to 3 pm we will host a seminar by **Teemu Ojanen** from **Tampere University**. 
 
 ## Title
 

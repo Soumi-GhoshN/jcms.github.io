@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "April 29th, 2024: Tsuneya Yoshida"
-date: 2023-09-01 10:07:00 +0200
+date: 2023-09-01 10:07:02 +0200
 categories:
 ---
 

@@ -20,8 +20,11 @@ The series of Landau-Lifshitz equations, e.g. Landau-Lifshitz-Gilbert equation, 
 ## References
 
 [1] IEEE Transactions on Magnetics, vol. 40, no. 6, pp. 3443-3449, Nov. 2004.
+
 [2] Rev. Mod. Phys. 76, 323 (2004).
+
 [3] Phys. Rev. Lett. 110, 147201 (2013).
+
 [4] arXiv preprint arXiv:2403.09255 (2024)
 
 

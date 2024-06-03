@@ -7,7 +7,9 @@ categories:
 
 # June 5th, 2024: Ahmed Abouelkomsan
 
-On Wednesday, June 5th, 2024 from 3 pm to 4 pm we will host a seminar by **Ahmed Abouelkomsan** from **Massachusetts Institute of Technology**. 
+On Wednesday, June 5th, 2024 from 3:30 pm to 4:30 pm we will host a seminar by **Ahmed Abouelkomsan** from **Massachusetts Institute of Technology**. 
+
+Fika will be served before the event, at 3 pm.
 
 ## Title
 

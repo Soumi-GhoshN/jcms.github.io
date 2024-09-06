@@ -13,7 +13,7 @@ The Joint Condensed Matter Seminar (JCMS) series hosts **biweekly seminars** fea
 
 The JCMS series is organised by KTH -- Royal Insitute of Technology, Nordita -- Nordic Institute for Theoretical Physics, and SU -- Stockholm University.
     
-### <span style="color:red">The list of upcoming events will soon be updated. See you after the Summer break!</span>
+### <span style="color:red">List of upcoming events:</span>
 <ul>
   {% for post in site.upcomingposts %}
     <li>
@@ -56,9 +56,9 @@ Nordita:
 Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se))
 
 SU: 
-Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)); Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
+Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
  
  
 ### Former members of the JCMS organising team
 
-Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se))
+Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).

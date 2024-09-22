@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "September 30th, 2024: Aleksander Glodkowski"
+title: "September 30th, 2024: Aleksander Głódkowski"
 date: 2024-09-01 10:01:00 +0200
 categories:
 ---
 
-# September 30th, 2024: Aleksander Glodkowski
+# September 30th, 2024: Aleksander Głódkowski
 
 On Friday, September 30th, 2024 from 11 am to 12 am we will host a seminar by **Aleksander Glodkowski** from **Wrocław University of Science and Technology
 Verified email at pwr.edu.pl**. 

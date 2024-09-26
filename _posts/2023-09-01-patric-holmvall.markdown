@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "September 30th, 2024: Aleksander Głódkowski"
+title: "November 4th, 2024: Patric Holmvall
 date: 2024-09-01 10:02:00 +0200
 categories:
 ---

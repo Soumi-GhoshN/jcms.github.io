@@ -1,0 +1,32 @@
+---
+layout: default
+title: "October 28th, 2024: Fan Yang"
+date: 2024-09-01 10:01:03 +0200
+categories:
+---
+
+# October 28th, 2024: Fan Yang
+
+On Monday, October 28th, 2024 from 11 am to 12 am we will host a seminar by **Fan Yang** from **Stockholm University**. 
+
+## Title
+
+Anatomy of Higher-Order Non-Hermitian Skin and Boundary Modes
+
+
+## Abstract 
+
+The anomalous bulk-boundary correspondence in non-Hermitian systems featuring an intricate interplay between skin and boundary modes has attracted enormous theoretical and experimental attention [1]. Still, in dimensions higher than one, this interplay re- mains much less understood. Here we provide insights from exact analytical solutions of a large class of models in any dimension, d, with open boundaries in dc ≤ d directions and by tracking their topological origin. Specifically, we show that Amoeba theory [2] accounting for the separation gaps of the bulk modes augmented with higher-dimensional generalizations of the biorthogonal polarization and the generalized Brillouin zone approaches [3] accounting for the surface gaps of boundary modes provide a comprehensive understanding of these systems.
+
+
+## References
+
+
+[1] E.J. Bergholtz, J.C. Budich, and F.K. Kunst, Rev. Mod. Phys. 93, 015005 (2021). 
+
+[2] H.-Y. Wang, F. Song, and Z. Wang, Phys. Rev. X 14, 021011 (2024).
+
+[3] F. Yang and E.J. Bergholtz, arXiv:2405.03750.
+
+
+

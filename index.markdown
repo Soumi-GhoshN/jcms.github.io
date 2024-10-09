@@ -49,8 +49,8 @@ We encourage you to join and bring your own mug/reusable glass if you have one!
 
 ### The JCMS organising team
 
-KTH:
-Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se))
+KTH: Yuliya Bilinskaya ([yuliyab@kth.se](mailto:yuliyab@kth.se)); Soumi Ghosh ([soumig@kth.se](mailto:soumig@kth.se))
+
 
 Nordita:
 Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se))
@@ -61,4 +61,4 @@ Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
  
 ### Former members of the JCMS organising team
 
-Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
+Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).

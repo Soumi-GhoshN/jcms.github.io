@@ -21,7 +21,7 @@ Cooling below ~10 mK, typical ambient temperatures that can be reached in curren
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/image_manikandan.jpg" alt="">
-  <figcaption>Fig. 1: (university of Rochester illustrations / Micheal Osadciw).</figcaption>
+  <figcaption>Fig. 1: (University of Rochester illustrations / Micheal Osadciw).</figcaption>
 </figure>
 
 <br>

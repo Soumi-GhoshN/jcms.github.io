@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "October 28th, 2024: Fan Yang"
-date: 2024-09-01 10:01:03 +0200
+title: "November 11th, 2024: Fan Yang"
+date: 2024-09-01 10:03:00 +0200
 categories:
 ---
 
-# October 28th, 2024: Fan Yang
+# November 11th, 2024: Fan Yang
 
-On Monday, October 28th, 2024 from 11 am to 12 am we will host a seminar by **Fan Yang** from **Stockholm University**. 
+On Monday, November 11th, 2024 from 11 am to 12 am we will host a seminar by **Fan Yang** from **Stockholm University**. 
 
 ## Title
 

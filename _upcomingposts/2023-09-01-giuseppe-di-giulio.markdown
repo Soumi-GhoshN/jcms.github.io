@@ -7,7 +7,7 @@ categories:
 
 # November 18th, 2024: Giuseppe Di Giulio
 
-On Monday, November 18th, 2024 from 11 am to 12 am we will host a seminar by **Guiseppe Di Giulios** from **Stockholm University**. 
+On Monday, November 18th, 2024 from 11 am to 12 am we will host a seminar by **Guiseppe Di Giulio** from **Stockholm University**. 
 
 ## Title
 

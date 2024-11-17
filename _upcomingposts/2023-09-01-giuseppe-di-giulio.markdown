@@ -25,7 +25,9 @@ In this talk, I will discuss the main features of the symmetry-resolved entangle
 ## References
 
 [1] Murciano, Di Giulio, Calabrese, SciPost Phys. 8 (2020) 046.
+
 [2] Murciano, Di Giulio, Calabrese, JHEP 08 (2020) 073.
+
 [3] Di Giulio, Meyer, Northe, Scheppach, Zhao, SciPost Phys.Core 6 (2023) 049.
 
 

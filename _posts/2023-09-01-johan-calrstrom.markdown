@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "December 2nd, 2024: Johan Carlström"
+title: "December 9th, 2024: Johan Carlström"
 date: 2024-09-01 10:06:00 +0200
 categories:
 ---
 
-# December 2nd, 2024: Johan Carlström
+# December 9th, 2024: Johan Carlström
 
-On Monday, December 2nd, 2024 from 11 am to 12 am we will host a seminar by **Johan Carlström** from **Stockholm University**. 
+On Monday, December 9th, 2024 from 11 am to 12 am we will host a seminar by **Johan Carlström** from **Stockholm University**. 
 
 ## Title
 

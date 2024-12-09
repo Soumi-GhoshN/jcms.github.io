@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "December 9th, 2024: Johan Carlström"
+title: "POSTPONED! December 9th, 2024: Johan Carlström"
 date: 2024-09-01 10:06:00 +0200
 categories:
 ---
 
 # December 9th, 2024: Johan Carlström
+
+Please note this talk has been postponed until further notice.
 
 On Monday, December 9th, 2024 from 11 am to 12 am we will host a seminar by **Johan Carlström** from **Stockholm University**. 
 

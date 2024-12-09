@@ -7,6 +7,8 @@ categories:
 
 # December 9th, 2024: Johan Carlström
 
+Please note this talk has been postponed until further notice.
+
 On Monday, December 9th, 2024 from 11 am to 12 am we will host a seminar by **Johan Carlström** from **Stockholm University**. 
 
 ## Title

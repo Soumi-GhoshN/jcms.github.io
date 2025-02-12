@@ -56,9 +56,9 @@ Nordita:
 Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se))
 
 SU: 
-Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se))
+Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se)); Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se))
  
  
 ### Former members of the JCMS organising team
 
-Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se));Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
+Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).

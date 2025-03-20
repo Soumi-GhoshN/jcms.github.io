@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "March 31st, 2025: Arnob Kumar Ghosh"
-date: 2024-09-01 10:07:06 +0600
+date: 2025-03-31 10:07:06 +0600
 categories:
 ---
 

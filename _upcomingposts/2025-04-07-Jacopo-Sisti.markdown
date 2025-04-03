@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "April 7th, 2025: Andrea Maiani "
+title: "April 7th, 2025: Jacopo Sisti "
 date: 2025-04-07 10:03:01 +0200
 categories:
 ---

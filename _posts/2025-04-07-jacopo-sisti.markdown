@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "April 7th, 2025: Jacopo Sisti"
-date: 2025-03-03 10:13:01 +0400
+date: 2025-04-01 10:15:01 +0400
 categories:
 ---
 

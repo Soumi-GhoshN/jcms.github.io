@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "April 7th, 2025: Jacopo Sisti"
-date: 2025-03-03 10:13:01 +0300
+date: 2025-03-03 10:13:01 +0400
 categories:
 ---
 
@@ -23,6 +23,5 @@ In this talk, I will review some aspects of defects and boundaries CFTs followin
 
 
 
-## References
 
 

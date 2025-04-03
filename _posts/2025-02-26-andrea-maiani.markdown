@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "March 3rd, 2025: Andrea Maiani "
-date: 2024-09-01 10:03:07 +0200
+date: 2025-03-03 10:03:07 +0200
 categories:
 ---
 

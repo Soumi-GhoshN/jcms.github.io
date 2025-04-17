@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "April 24th, 2025: Andrea Bianchi"
-date: 2025-04-01 10:15:01 +0500
+date: 2025-04-10 10:15:01 +0500
 categories:
 ---
 
 # April 24th, 2025: Andrea Bianchi
 
-On Thursday, April 24th, 2025 from 13.30 am to 14.30 we will host a seminar by **Andrea Bianchi** from **Université de Montréal**. 
+On Thursday, April 24th, 2025 from 15.30 am to 16.30 we will host a seminar by **Andrea Bianchi** from **Université de Montréal**. 
 
 ## Title
 
